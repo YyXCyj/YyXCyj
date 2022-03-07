@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
