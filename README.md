@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 我的开源项目：
 
 ### 深度学习 🌱
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/YyXCyj/-Detection-and-Tracking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 后端开发（java技术） 🌱
