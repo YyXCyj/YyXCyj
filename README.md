@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=tokyonight)](https://github.com/YyXCyj/Health_Project1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=House_Manage&theme=tokyonight)](https://github.com/YyXCyj/House_Manage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=house-manage-web&theme=tokyonight)](https://github.com/YyXCyj/house-manage-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=house-manage-web&theme=tokyonight)](https://github.com/YyXCyj/reggie_takeout)
 
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
