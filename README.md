@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=tokyonight)](https://github.com/YyXCyj/Multi-object-detection-UI-)
 
 ### 后端开发（java技术） 🌱
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=highcontrast)](https://github.com/YyXCyj/Health_Project1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=House_Manage&theme=highcontrast)](https://github.com/YyXCyj/House_Manage)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=house-manage-web&theme=highcontrast)](https://github.com/YyXCyj/house-manage-web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=reggie_takeout&theme=highcontrast)](https://github.com/YyXCyj/reggie_takeout)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=SSM_Movies&theme=highcontrast)](https://github.com/YyXCyj/SSM_Movies)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=cobalt)](https://github.com/YyXCyj/Health_Project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=House_Manage&theme=cobalt)](https://github.com/YyXCyj/House_Manage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=house-manage-web&theme=cobalt)](https://github.com/YyXCyj/house-manage-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=reggie_takeout&theme=cobalt)](https://github.com/YyXCyj/reggie_takeout)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=SSM_Movies&theme=cobalt)](https://github.com/YyXCyj/SSM_Movies)
 
 
 
