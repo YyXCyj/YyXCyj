@@ -31,7 +31,6 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=reggie_takeout&theme=cobalt)](https://github.com/YyXCyj/reggie_takeout)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=SSM_Movies&theme=cobalt)](https://github.com/YyXCyj/SSM_Movies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=seckill-system&theme=cobalt)](https://github.com/YyXCyj/seckill-system)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=IT-Online&theme=cobalt)](https://github.com/YyXCyj/IT-Online)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=mall4cloud&theme=cobalt)](https://github.com/YyXCyj/mall4cloud)
 
 
