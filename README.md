@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Face-detection)](https://github.com/YyXCyj/Face-detection)
 
 ### 后端开发（java技术） 🌱
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=cobalt)](https://github.com/YyXCyj/Health_Project1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=gruvbox)](https://github.com/YyXCyj/Health_Project1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=House_Manage&theme=cobalt)](https://github.com/YyXCyj/House_Manage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=house-manage-web&theme=cobalt)](https://github.com/YyXCyj/house-manage-web)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=reggie_takeout&theme=cobalt)](https://github.com/YyXCyj/reggie_takeout)
