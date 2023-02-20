@@ -16,16 +16,15 @@ Here are some ideas to get you started:
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YyXCyj&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
-[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=YyXCyj)](https://readme-stats.clckblog.space/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 我的开源项目：
 
 ### 深度学习 🌱
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)(https://github.com/anuraghazra/github-readme-stats)
-[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/-Detection-and-Tracking)
-[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Multi-object-detection-UI-) 
-[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Face-detection)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=YyXCyj&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/YyXCyj/-Detection-and-Tracking)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=YyXCyj&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/YyXCyj/-Detection-and-Tracking) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=tokyonight)](https://github.com/YyXCyj/Multi-object-detection-UI-) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Face-detection&theme=tokyonight)](https://github.com/YyXCyj/Face-detection) -->
