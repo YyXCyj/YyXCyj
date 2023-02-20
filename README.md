@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YyXCyj&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=YyXCyj&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
+[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=CLCK0622)](https://readme-stats.clckblog.space/)
 
 ## 我的开源项目：
 
