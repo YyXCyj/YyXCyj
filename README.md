@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ### 深度学习 🌱
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking)](https://github.com/YyXCyj/-Detection-and-Tracking)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/YyXCyj/-Detection-and-Tracking) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=tokyonight)](https://github.com/YyXCyj/Multi-object-detection-UI-) -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Face-detection&theme=tokyonight)](https://github.com/YyXCyj/Face-detection) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking)](https://github.com/YyXCyj/-Detection-and-Tracking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-)](https://github.com/YyXCyj/Multi-object-detection-UI-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Face-detection)](https://github.com/YyXCyj/Face-detection)
 
 ### 后端开发（java技术） 🌱
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=cobalt)](https://github.com/YyXCyj/Health_Project1)
