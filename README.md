@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 ## 我的开源项目：
 
 ### 深度学习 🌱
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/-Detection-and-Tracking)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Multi-object-detection-UI-) 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Face-detection)
+[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/anuraghazra/github-readme-stats)
+[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/-Detection-and-Tracking)
+[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Multi-object-detection-UI-) 
+[![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Face-detection)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=tokyonight)](https://github.com/YyXCyj/-Detection-and-Tracking) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=tokyonight)](https://github.com/YyXCyj/Multi-object-detection-UI-) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Face-detection&theme=tokyonight)](https://github.com/YyXCyj/Face-detection) -->
