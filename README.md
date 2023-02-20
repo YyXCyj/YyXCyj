@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 ## 我的开源项目：
 
 ### 深度学习 🌱
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 [![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/anuraghazra/github-readme-stats)
 [![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/-Detection-and-Tracking)
 [![CLCK's GitHub stats](https://github-readme-stats.vercel.app/api?username=YyXCyj)](https://github.com/YyXCyj/Multi-object-detection-UI-) 
