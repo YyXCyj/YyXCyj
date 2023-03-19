@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Health_Project1&theme=gruvbox)](https://github.com/YyXCyj/Health_Project1)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=House_Manage&theme=gruvbox)](https://github.com/YyXCyj/House_Manage)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=house-manage-web&theme=gruvbox)](https://github.com/YyXCyj/house-manage-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=mall4cloud&theme=gruvbox)](https://github.com/YyXCyj/mall4cloud)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=reggie_takeout&theme=gruvbox)](https://github.com/YyXCyj/reggie_takeout)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=SSM_Movies&theme=gruvbox)](https://github.com/YyXCyj/SSM_Movies)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=seckill-system&theme=gruvbox)](https://github.com/YyXCyj/seckill-system)
