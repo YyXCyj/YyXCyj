@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=seckill-system&theme=gruvbox)](https://github.com/YyXCyj/seckill-system)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=wanxinFinance&theme=gruvbox)](https://github.com/YyXCyj/wanxinFinance)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=IT-Online&theme=gruvbox)](https://github.com/YyXCyj/IT-Online)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=IT-Online&theme=gruvbox)](https://github.com/YyXCyj/IT-Online)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
