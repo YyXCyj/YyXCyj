@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ## 我的开源项目：
 
 ### 深度学习 🌱
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=bear)](https://github.com/YyXCyj/-Detection-and-Tracking)
+[![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=bear)](https://github.com/YyXCyj/-Detection-and-Tracking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=-Detection-and-Tracking&theme=bear)](https://github.com/YyXCyj/-Detection-and-Tracking)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Multi-object-detection-UI-&theme=bear)](https://github.com/YyXCyj/Multi-object-detection-UI-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YyXCyj&repo=Face-detection&theme=bear)](https://github.com/YyXCyj/Face-detection)
