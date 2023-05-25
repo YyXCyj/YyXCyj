@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## 日常：
 
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=YyXCyj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=IT-Online&theme=gruvbox)](https://github.com/YyXCyj/IT-Online)
+<!-- [![Top Langs](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=IT-Online&theme=gruvbox)](https://github.com/YyXCyj/IT-Online) -->
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
