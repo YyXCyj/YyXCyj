@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=house-manage-web&theme=gruvbox)](https://github.com/YyXCyj/house-manage-web)
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=mall4cloud&theme=gruvbox)](https://github.com/YyXCyj/mall4cloud)
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=reggie_takeout&theme=gruvbox)](https://github.com/YyXCyj/reggie_takeout)
+### 金融系列后端开发（java技术） 🌱
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=wanxinjinrong&theme=gruvbox)](https://github.com/YyXCyj/wanxinjinrong)
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=SSM_Movies&theme=gruvbox)](https://github.com/YyXCyj/SSM_Movies)
 [![Readme Card](https://readme-stats.clckblog.space/api/pin/?username=YyXCyj&repo=seckill-system&theme=gruvbox)](https://github.com/YyXCyj/seckill-system)
